@@ -10,7 +10,7 @@ import Values from "./components/Value/Value";
 
 
 function App() {
-  return (
+  return ( 
     <div className="App">
       <div>
         <Header />
